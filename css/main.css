@@ -99,25 +99,84 @@ textarea {
 
 
 
+.container-main{
+    margin:auto;
+    width:760px;
+    height:900px;
+    background-color: ;
+}
+
+.container-picture{
+    position:relative;
+    z-index:1;
+    margin:auto;
+    width: 760px;
+    height: 507px;
+    background-color: red;
+}
+
+.obiective{
+    margin-top:-79px;
+    margin-right: 6px;
+    position:relative;
+    z-index:2;
+    position:relative;
+    float:left;
+}
+
+.obiectiv_unu{
+    margin-left:25px;
+    width:106px;
+    height:117px;
+}
+.obiectiv_doi{
+    bottom:49px;
+    margin-bottom:55px;
+    width:116px;
+    height:164px;
+}
+
+.obiectiv_trei{
+    bottom:82px;
+    width:114px;
+    height:199px;
+}
+.obiectiv_patru{
+    top:40px;
+    width:112px;
+    height:80px;
+}
+
+.logo{
+    margin-top: 30px;
+    float:right;
+    height:128px;
+    width:188px;
+    display:inline-block;
+}
 
 
+.text-intro{
+    font-family: Century Gothic;
+    z-index: 2;
+    font-size:24px;
+    text-align:center;
+    color:white;
+    margin:auto;
+    width:320px;
+    margin-top:-320px;
+    margin-bottom: 10px;
+    
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.text-intro-second{
+    z-index: 2;
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 320px;
+    bottom: 200px;
+}
 
 
 
