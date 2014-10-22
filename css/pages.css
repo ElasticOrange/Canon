@@ -17,7 +17,7 @@ body {
     margin:auto;
     width: 760px;
     height: 507px;
-    background-color: red;
+    background-color:;
 
 }
 
@@ -74,8 +74,17 @@ body {
     margin-top:-348px;
 }
 
+.text-intro2{
+    width:256px;
+    margin-top:-358px;
+}
+
+.text-intro3{
+    width:189px;
+    margin-top:-388px;
+}
+
 .text-intro-second{
-    z-index: 2;
     text-align: center;
     color: white;
     margin: auto;
@@ -84,13 +93,58 @@ body {
     margin-top: 10px;
 }
 
+.text-intro-second2{
+    width: 272px;
+    height:35px;
+}
+
+.adress-email{
+  position:absolute;
+  left:260px;
+  top:300px;
+  width:215px;
+  height:27px;
+  border:none;
+  border-radius: 5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size: 18px;
+  color:#999999;
+}
+
+.submit-button{
+  background-color:#fff;
+  position:absolute;
+  left:323px;
+  top:349px;
+  width:118px;
+  height:29px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.radio-container{
+  text-align:center;
+  background-color: blue;
+  margin-left:auto;
+  margin-right:auto;
+  width:340px;
+  color:#fff; 
+  margin-top:15px;
+  font-size:18px;
+  }
+
+  .obiectiv-margin{
+    margin-right:13px;
+  }
+
 
 .container-opacity{
     width: 570px;
     height: 380px;
     margin: auto;
     margin-top: 128px;
-
 }
 
 .mainpic{
@@ -170,6 +224,14 @@ body {
   width: 570px;
   position: relative;
   top: 128px;
+  margin-left: auto;
+  margin-right: auto; }
+
+  .picture-container2 {
+  z-index: 1;
+  height: 507px;
+  width: 760px;
+  position: relative;
   margin-left: auto;
   margin-right: auto; }
 
