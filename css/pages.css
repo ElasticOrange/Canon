@@ -19,41 +19,41 @@ body {
 }
 
 .obiective{
-    top: -162px;
+    top: 350px;
     margin-right: 6px;
-    position:relative;
+    position:absolute;
     z-index:2;
-    position:relative;
     float:left;
 }
 
 .objectives{
- margin-top: 304px;
+  top :480px;
+ 
 }
 /*dif = 34*/
 .obiective-submit{
-margin-top:370px;
+  top:480px;
 }
 
 .obiectiv_unu{
-    margin-left:20px;
+    left:20px;
     width:106px;
     height:117px;
 }
 .obiectiv_doi{
     
-    
+    left:140px;
     width:116px;
     height:164px;
 }
 
 .obiectiv_trei{
-    
+    left:260px;
     width:114px;
     height:199px;
 }
 .obiectiv_patru{
-    
+    left:380px;
     width:112px;
     height:80px;
 }
@@ -99,8 +99,8 @@ margin-top:370px;
 
 .text-intro-second2{
     width: 272px;
-    height:35px;
-}
+    margin-top: 10px;
+  }
 
 .adress-email{
   position:absolute;
