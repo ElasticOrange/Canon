@@ -8,7 +8,6 @@ body {
     background-color:white;
     margin:auto;
     width:760px;
-    background-color:;
 }
 
 .container-picture{
@@ -17,12 +16,10 @@ body {
     margin:auto;
     width: 760px;
     height: 507px;
-    background-color:;
-
 }
 
 .obiective{
-    margin-top:-79px;
+    top: -162px;
     margin-right: 6px;
     position:relative;
     z-index:2;
@@ -30,25 +27,33 @@ body {
     float:left;
 }
 
+.objectives{
+ margin-top: 304px;
+}
+/*dif = 34*/
+.obiective-submit{
+margin-top:370px;
+}
+
 .obiectiv_unu{
-    margin-left:25px;
+    margin-left:20px;
     width:106px;
     height:117px;
 }
 .obiectiv_doi{
-    bottom:49px;
-    margin-bottom:55px;
+    
+    
     width:116px;
     height:164px;
 }
 
 .obiectiv_trei{
-    bottom:82px;
+    
     width:114px;
     height:199px;
 }
 .obiectiv_patru{
-    top:40px;
+    
     width:112px;
     height:80px;
 }
@@ -89,7 +94,7 @@ body {
     color: white;
     margin: auto;
     width: 240px;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 .text-intro-second2{
