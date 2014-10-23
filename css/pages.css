@@ -302,5 +302,7 @@ body {
 }
 
 .error{
-  box-shadow: inset 0px 0px 7px 3px #8B3F18;
+  color: #fff;
+background-color: #AB0000;
+box-shadow: inset 0px 0px 7px 5px #FFFFFF;
 }
