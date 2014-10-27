@@ -309,3 +309,58 @@ body {
 background-color: #AB0000;
 box-shadow: inset 0px 0px 7px 5px #FFFFFF;
 }
+
+.preview-box{
+  position:absolute;
+  z-index:4;
+  background-image: url(../img/preview-box.png);
+  width:242px;
+  height:209px;
+  top: 140px;
+  left:500px;
+
+}
+.preview-lens{
+  background-color:;
+  margin-top:40px;
+  margin-left:5px;
+  background-image:url(../img/Obiective/obiectiv1-preview.png);
+  height:153px;
+  width:90px;
+}
+
+.preview-lens2{
+  background-image:url(../img/Obiective/obiectiv2-preview.png);
+  margin-top:60px;
+  height:130px;
+  margin-left:10px;
+}
+.preview-lens3{
+  background-image:url(../img/Obiective/obiectiv3-preview.png);
+  margin-top:50px;
+  height:140px;
+  margin-left:10px;
+}
+.preview-lens4{
+  background-image:url(../img/Obiective/obiectiv4-preview.png);
+  margin-top:50px;
+  height:150px;
+  margin-left:10px;
+}
+
+.preview-title{
+  top:20px;
+  left:20px;
+  position:absolute;
+  color:white;
+}
+
+
+.preview-content{
+  position:absolute;
+  top:60px;
+  left:100px;
+  color:white;
+  width:150px;
+  font-size:12px;
+}
