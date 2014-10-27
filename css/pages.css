@@ -18,6 +18,26 @@ body {
     height: 507px;
 }
 
+.container-picture-2{
+    background-color: red;
+    background-image: url(../img/blur-look.png);
+    position:relative;
+    z-index:1;
+    margin:auto;
+    width: 760px;
+    height: 507px;
+}
+
+.picture-container-blur {
+  background-image: url('../img/center-finder.png');
+  background-position: center bottom;
+  height: 379px;
+  width: 570px;
+  position: relative;
+  top: 128px;
+  margin-left: auto;
+  margin-right: auto; }
+
 .obiective{
     top: 350px;
     margin-right: 6px;
